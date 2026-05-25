@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hey! I'm Naman
 I'm working in Infosys as a Senior Associate Consultant 
-and working on developing a cross-platform application<br>
+
 
 
 ## 🌐 Socials:
